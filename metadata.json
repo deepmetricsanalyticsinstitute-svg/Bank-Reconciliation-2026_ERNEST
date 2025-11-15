@@ -1,0 +1,5 @@
+{
+  "name": " NEW Bank Reconciliation 2025",
+  "description": "An intelligent application that uses AI to automatically reconcile bank statements (PDF) with general ledgers (Excel), highlighting matched and unmatched transactions.",
+  "requestFramePermissions": []
+}
